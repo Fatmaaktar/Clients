@@ -1,5 +1,5 @@
 # Clients
-Bu çalışmamda Asp .NET 5.0 ve SQL'i kullandım.
+Bu çalışmamda Asp .NET 5.0 ve MSSQL'i kullandım.
 Öncelikle bir Müşteriler sayfası oluşturdum ve SQL'de girmiş olduğum verileri bu sayfaya çektim.
 
 ![image](https://github.com/Fatmaaktar/Clients/assets/106100226/ab09c254-2e01-4e10-b3dc-a8fda015596c) 
